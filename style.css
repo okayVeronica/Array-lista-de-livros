@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(to right, #f4d5ff, #ccffdc) ;
+}
+ 
+ h1 {
+     text-align: center;
+     font-family: 'Times New Roman', Times, serif;
+ }
+ 
+ .Formulario {
+     margin: 20px auto;
+     padding: 50px;
+     width: 90%;
+     border: 2px solid #ccc;
+     border-radius: 10px;
+ }
